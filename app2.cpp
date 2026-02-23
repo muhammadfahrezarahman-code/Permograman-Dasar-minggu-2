@@ -7,6 +7,11 @@ int main()
   int luas, panjang, lebar;
   
   //langkah 2
-  cout << "masukan panjang ;";
+  cout << "masukan panjang :";
+  cin >> panjang;
   
+  //langkah 3
+  cout << "Masukkan Lebar :";
+  cin >> lebar;
+
 }
